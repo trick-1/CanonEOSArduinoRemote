@@ -4,12 +4,12 @@ This will work with any Canon that has the 2.5mm socket for remote focus/shutter
 
 The code is provided as is, does what I need most of the time but probably needs some tweaks. It is functional and seems to work
 
-Hardware
+<h2>Hardware</h2>
 - Arduino Uno R4 WiFi
 - Arduino R4 Relay Shield
 - 3.5mm to 2.5mm Audio Cable
 
-Construction
+<h2>Construction</h2>
 - cut the 3.5mm end off of the Audio cable and trim back the wires.
 - Connect the white pair to relay 1 (focus)
 - Connect the red pair to relay 2 (shutter)
@@ -18,5 +18,7 @@ Construction
 - Monitor the serial output to see what <ip address> it is given
 - connect via http://<ip address>/
 
-Arduino Libraries
+<h2>Arduino Libraries</h2>
+<p>
 If not already done so then you will need to install the libraries to support the Arduino Uno R4. I don't recall any other libraries being required.
+<p></p>
