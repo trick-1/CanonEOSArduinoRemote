@@ -1,8 +1,9 @@
 # CanonEOSArduinoRemote
-Welcome to Canon EOSArduinoRemote! I pulled this together to help taking astrophotographs using an old Canon D350. it will work for any other time delay/remote trigger application you may have. 
+Welcome to Canon EOSArduinoRemote! I pulled this together to help take astrophotographs using an old Canon D350. 
+It will work for any other time delay/remote trigger application you may want to use your Canon for. 
 This will work with any Canon that has the 2.5mm socket for remote focus/shutter. It may work with other cameras with a similar focus/shutter setup. YMMV.
 
-The code is provided as is, does what I need most of the time but probably needs some tweaks. It is functional and seems to work
+The code is provided as is, does what I need most of the time, but I will be the first to admit it probably needs some tweaks. It is functional and seems to work
 
 <h2>Hardware</h2>
 <ul>
