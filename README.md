@@ -18,3 +18,5 @@ Construction
 - Monitor the serial output to see what <ip address> it is given
 - connect via http://<ip address>/
 
+Arduino Libraries
+If not already done so then you will need to install the libraries to support the Arduino Uno R4. I don't recall any other libraries being required.
