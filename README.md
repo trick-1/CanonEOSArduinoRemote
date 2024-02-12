@@ -5,7 +5,7 @@ This will work with any Canon that has the 2.5mm socket for remote focus/shutter
 The code is provided as is, does what I need most of the time but probably needs some tweaks. It is functional and seems to work
 
 <h2>Hardware</h2>
-<ul></ul>
+<ul>
 <li>rduino Uno R4 WiFi</li>
 <li>Arduino R4 Relay Shield</li>
 <li>3.5mm to 2.5mm Audio Cable</li>
