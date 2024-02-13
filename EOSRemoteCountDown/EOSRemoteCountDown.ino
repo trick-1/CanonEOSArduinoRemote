@@ -6,8 +6,8 @@
 #define RELAY3_PIN 8
 #define RELAY4_PIN 12
 
-const char ssid[] = "xenadoo";
-const char pass[] = "G33L0ngR0ck5Y";
+const char ssid[] = "ap";
+const char pass[] = "appassword";
 
 int status = WL_IDLE_STATUS;
 bool daylightMode = true; // Variable to track the current mode
